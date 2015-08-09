@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 0-100过度平滑的动画 -->
+<animator xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:valueFrom="0"
+    android:valueTo="100"
+    android:valueType="intType"
+    
+    >
+
+</animator>
